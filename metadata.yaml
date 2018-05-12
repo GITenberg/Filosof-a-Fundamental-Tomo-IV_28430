@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5162
     wikipedia: http://en.wikipedia.org/wiki/Jaime_Lucio_Balmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28430#Filosof-a-Fundamental-Tomo-IV
 gutenberg_issued: '2009-03-29'
 gutenberg_type: Text
 identifiers:
